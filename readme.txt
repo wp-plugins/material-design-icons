@@ -15,6 +15,7 @@ Insert Material Design Icons into your WordPress post and pages.
 Enables 1000+ Material Design icons within WordPress pages and posts. Icons can be inserted with a shortcode or HTML markup. 
 
 
+
 == Installation ==
 
 To use any of the Material Design icons on your WordPress site follow the steps below:
@@ -69,7 +70,7 @@ Yes
 
 == Upgrade Notice ==
 
-= 0.0.1 =
+= 0.0.2 =
 
 * Initial release
 
@@ -78,3 +79,7 @@ Yes
 = 0.0.1 =
 
 * Initial release
+
+= 0.0.2 =
+
+* Update to Material Design Icons 1.0.62
