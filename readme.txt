@@ -22,10 +22,10 @@ Enables 1000+ Material Design icons within WordPress pages and posts. Icons can 
 Material Design Icons can be used in 3 different ways: shortcode, HTML, and TinyMCE
 
 = 1. Shortcode =
-`[icon name="material-ul" size="2x" color="red"]`
+`[mdi-icon name="material-ul" size="2x" color="red"]`
 
 You can also use hex values for color:
-`[icon name="material-ul" size="2x" color="#000000"]`
+`[mdi-icon name="material-ul" size="2x" color="#000000"]`
 
 You can read more about shortcode usage on [Github](https://github.com/braginteractive/Material-Design-Icons-WordPress-Plugin)
 
