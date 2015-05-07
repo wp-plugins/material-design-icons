@@ -1,10 +1,10 @@
 === Material Design Icons ===
 Contributors: braginteractive
-Donate link: http://example.com/
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=54JCLD3GUCY68
 Tags: icons, material design, font icon, UI, icon font, material
 Requires at least: 3.0.1
 Tested up to: 4.2.1
-Stable tag: 0.0.3.1
+Stable tag: 0.0.3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -98,7 +98,7 @@ Yes
 
 == Upgrade Notice ==
 
-= 0.0.3 =
+= 0.0.3.2 =
 
 * Initial release
 
