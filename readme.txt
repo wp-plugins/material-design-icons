@@ -109,6 +109,11 @@ Yes
 
 == Changelog ==
 
+= 0.0.4 =
+
+* update MDI to 1.1.70
+* fix icon font sizes
+
 = 0.0.3 =
 
 * Add TinyMCE button
