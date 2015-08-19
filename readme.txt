@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: icons, material design, font icon, UI, icon font, material
 Requires at least: 3.0.1
 Tested up to: 4.3
-Stable tag: 0.0.4
+Stable tag: 0.0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -98,6 +98,10 @@ Yes
 
 == Upgrade Notice ==
 
+= 0.0.5 =
+
+* tested on 4.3
+
 = 0.0.4 =
 
 * update MDI to 1.1.70
@@ -108,6 +112,10 @@ Yes
 * minor bugfix
 
 == Changelog ==
+
+= 0.0.5 =
+
+* tested on 4.3
 
 = 0.0.4 =
 
